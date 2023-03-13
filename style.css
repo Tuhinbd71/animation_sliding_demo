@@ -34,7 +34,8 @@
 .stage {
     width: 1400px;
     height: 600px;
-    margin: 15x;
+    margin-left: 50px;
+    margin-top: 20px;
     background-color: burlywood;
 }
 
