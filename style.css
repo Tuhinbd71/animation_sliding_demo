@@ -1,6 +1,7 @@
 .stage {
-    width: 600px;
-    height: 300px;
+    width: 95%;
+    height: 600px;
+    margin: 15x;
     background-color: burlywood;
 }
 
