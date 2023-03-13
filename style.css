@@ -8,7 +8,7 @@
     25% {
         background-color: rgb(238, 238, 68);
 
-        top: 200px;
+        top: 400px;
     }
 
     50% {
@@ -20,12 +20,12 @@
     75% {
         background-color: rgb(238, 238, 68);
 
-        top: 200px;
+        top: 400px;
     }
 
     100% {
         background-color: red;
-        left: 400px;
+        left: 1200px;
         top: 0;
     }
 }
